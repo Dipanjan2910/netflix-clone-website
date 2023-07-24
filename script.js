@@ -1,4 +1,4 @@
-const apiKey = "fca8d2b31399dd1b21fac6cbcb65e3cc";
+const apiKey = "${APIKEY}";
 const baseUrl = "https://api.themoviedb.org/3";
 const imgPath = "https://image.tmdb.org/t/p/original/";
 
